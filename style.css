@@ -148,7 +148,7 @@ h1 {
 }
 
 .cart {
-    padding: 0px 0px 40px 20px;
+    padding-bottom: 40px;
 }
 
 .cart p {
@@ -163,6 +163,7 @@ h1 {
 
 a {
     color: red;
+    padding: 0px 20px;
     /* border: 1px solid black; */
 }
 
