@@ -147,6 +147,10 @@ h1 {
     font-size: 20px;
 }
 
+.cart {
+    padding: 0px 0px 40px 20px;
+}
+
 .cart p {
     width: 100%;
     margin-bottom: 20px;
@@ -159,7 +163,7 @@ h1 {
 
 a {
     color: red;
-    margin: 15% 5%;
+    /* border: 1px solid black; */
 }
 
 .icon {
